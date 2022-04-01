@@ -30,7 +30,7 @@ This analysis is a gathering of data into visualizations with Tableau to be used
 ![User_Trips_per_Gender](https://user-images.githubusercontent.com/56700719/161338758-06cf9f25-fcc2-4edc-928c-47fcced6eafc.JPG)
 
 - This last heatmap graph breaks down into 3 parts. It shows bikes being used per weekday by gender for each user type customer or subscriber. 
-- 
+
 ## Summary
 This analysis show which market uses the bikes but most importantly, specific times when the bikes are being used the most or least. During some of the bike’s downtime would be the best time for repairs or cleaning bikes after heavily usage.
 
