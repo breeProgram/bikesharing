@@ -36,4 +36,4 @@ This analysis show which market uses the bikes but most importantly, specific ti
 
 Another visualization I would have like to dig into would be showing the climate impact. Now a days, the importance of showing climate impact for investors is a top priority because of the public opinion on the subject. A visualization comparing the time on the bike to in a running car with co2 and the number of bikes being used in the city compared to amount of vehicles. 
 
-https://public.tableau.com/app/profile/bree.wilkinson
+[I'm an inline-style link](https://public.tableau.com/app/profile/bree.wilkinson)
