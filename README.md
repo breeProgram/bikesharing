@@ -34,7 +34,7 @@ This analysis is a gathering of data into visualizations with Tableau to be used
 - This last heatmap graph breaks down into 3 parts. It shows bikes being used per weekday by gender for each user type customer or subscriber. 
 
 ## Summary
-This analysis show which market uses the bikes but most importantly, specific times when the bikes are being used the most or least. During some of the bike’s downtime would be the best time for repairs or cleaning bikes after heavily usage.
+This analysis shows who uses the bikes but most importantly, specific times when the bikes are being used the most or least. During some of the bike’s downtime would be the best time for repairs or cleaning bikes after heavily usage.
 
 Another visualization I would have like to dig into would be showing the climate impact. Now a days, the importance of showing climate impact for investors is a top priority because of the public opinion on the subject. A visualization comparing the time on the bike to in a running car with co2 and the number of bikes being used in the city compared to amount of vehicles. 
 
